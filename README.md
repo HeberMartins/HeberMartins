@@ -75,15 +75,7 @@
     ### My Stats
     [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Martins05&theme=dark&layout=compact&langs_count=5)](https://github.com/Martins-readme-stats)
     
-    ## Contact:
-    <a href="mailto:mheber36@gmail.com" target="_blank">
-    <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" / > 
-    </a>
-    <a href="https:/www.linkedin.com/in/heber-m-martins" target="_blank">
-    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" / > 
-    </a>
-    <img align="center" alt="Discord" title="martins0505" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" / > 
-    
+   
     </div>
 
 <br>
