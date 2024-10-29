@@ -41,6 +41,7 @@
    <div style="display: inline_block">
      <img align="center" alt="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
      <img align="center"  alt="C" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white" />
+     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
     </div>    
     
   #### What I pretend to study soon
@@ -54,8 +55,8 @@
 
   #### Where am I studing?
    <div>
-    <a href="https://www.cursoemvideo.com/login/">
-    <img align="center" alt="CEV" src="https://img.shields.io/badge/Curso em Video-000000?style=for-the-badge" />
+    <a href="https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30091510?start=15">
+    <img align="center" alt="Udemy" src="https://img.shields.io/badge/Curso em Video-000000?style=for-the-badge" />
     </a>
      <a href="https://fatecjd.edu.br/huawei/moodle/user/profile.php">
     <img align="center" alt="Huawei" src="https://img.shields.io/badge/DIO-000000?style=for-the-badge" />
@@ -72,21 +73,18 @@
     <div>
     
     ### My Stats
-    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsaqueBatist&theme=dark&layout=compact&langs_count=5)](https://github.com/IsaqueBatist/github-readme-stats)
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Martins05&theme=dark&layout=compact&langs_count=5)](https://github.com/Martins-readme-stats)
     
     ## Contact:
-    <a href="mailto:isaquebatista400@gmail.com" target="_blank">
+    <a href="mailto:mheber36@gmail.com" target="_blank">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" / > 
     </a>
-    <a href="https://www.linkedin.com/in/isaquebarbos/" target="_blank">
+    <a href="https:/www.linkedin.com/in/heber-m-martins" target="_blank">
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" / > 
     </a>
-    <img align="center" alt="Discord" title="barbosa4814" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" / > 
+    <img align="center" alt="Discord" title="martins0505" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" / > 
     
     </div>
 
 <br>
 
-<div align="center"><br>
-  made whith 💜 and ☕
-</div>
