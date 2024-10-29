@@ -59,7 +59,7 @@
     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Curso em Video-000000?style=for-the-badge" />
     </a>
      <a href="https://fatecjd.edu.br/huawei/moodle/user/profile.php">
-    <img align="center" alt="Huawei" src="https://img.shields.io/badge/DIO-000000?style=for-the-badge" />
+    <img align="center" alt="Huawei" src="https://img.shields.io/badge/Huawei-000000?style=for-the-badge" />
     </a>
      <a href="https://www.bootcampdevjr.com/">
     <img align="center" alt="Abutua" src="https://img.shields.io/badge/Abutua -000000?style=for-the-badge" />
