@@ -49,7 +49,6 @@
    <div style="display: inline_block">
       <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
       <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-      <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
    </div>
 
 
