@@ -52,10 +52,11 @@
    </div>
 
 
+
   #### Where am I studing?
    <div>
     <a href="https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30091510?start=15">
-    <img align="center" alt="Udemy" src="https://img.shields.io/badge/Curso em Video-000000?style=for-the-badge" />
+    <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge" />
     </a>
      <a href="https://fatecjd.edu.br/huawei/moodle/user/profile.php">
     <img align="center" alt="Huawei" src="https://img.shields.io/badge/Huawei-000000?style=for-the-badge" />
@@ -76,6 +77,11 @@
     
    
     </div>
+
+    ## Past Works
+    <li>
+      <b>[CIC22ago2023.pdf](https://github.com/user-attachments/files/17578614/CIC22ago2023.pdf)</b>
+    </li>
 
 <br>
 
