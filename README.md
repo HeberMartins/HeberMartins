@@ -87,6 +87,8 @@
     ## Past Works
     <li>
       <b>[CIC22ago2023.pdf](https://github.com/user-attachments/files/17578614/CIC22ago2023.pdf)</b>
+      <b>[Grupo 4 - Controle de Frota.pdf](https://github.com/user-attachments/files/18188763/Grupo.4.-.Controle.de.Frota.pdf)
+</b>
     </li>
 
 <br>
