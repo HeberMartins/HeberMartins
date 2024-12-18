@@ -29,7 +29,6 @@
         <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
         <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
         <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-        <img align="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
         <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
         <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
         <img align="center" alt="REACT" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
@@ -87,8 +86,9 @@
     ## Past Works
     <li>
       <b>[CIC22ago2023.pdf](https://github.com/user-attachments/files/17578614/CIC22ago2023.pdf)</b>
-      <b>[Grupo 4 - Controle de Frota.pdf](https://github.com/user-attachments/files/18188763/Grupo.4.-.Controle.de.Frota.pdf)
-</b>
+    </li>
+    <li>
+      <b>[Grupo 4 - Controle de Frota.pdf](https://github.com/user-attachments/files/18188763/Grupo.4.-.Controle.de.Frota.pdf)</b>
     </li>
 
 <br>
