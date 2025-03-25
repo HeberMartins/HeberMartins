@@ -26,7 +26,6 @@
         <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
         <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
         <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img align="center" alt="REACT" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
               </div>
 
   ### Languages i'm familiar
