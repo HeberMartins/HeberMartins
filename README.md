@@ -4,16 +4,6 @@
 
 - Getting familiar with coding and establishing myself, looking for pratical experience
 - Nationality: Brazilian 
-
-
-
-  ## About Me
-    <li>
-      <b>Hobbies:</b> Practicing Taekwondo, Listen to Music, Read, Draw, BirdWatching, Trekking.
-    </li>
-    <li>
-      <b>Studying@:</b>  Fatec Itu - ADS 4°Semester
-    </li>
     
 
 
