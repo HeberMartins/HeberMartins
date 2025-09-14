@@ -1,7 +1,8 @@
 # Hi there, I'm Héber Meireles 👋
 
 ## My Stats
-[![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Martins05&theme=transparent&hide_border=true)](https://github.com/HeberMartins)
+[![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HeberMartins&theme=transparent&hide_border=true)](https://github.com/HeberMartins)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberMartins&theme=transparent&hide_border=true)
 
 ## Past Works
 - [CIC22ago2023.pdf](https://github.com/user-attachments/files/17578614/CIC22ago2023.pdf)
