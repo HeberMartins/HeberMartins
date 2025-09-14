@@ -23,9 +23,10 @@
 
 ## Projetos e Trabalhos Anteriores
 
-- **Análise de Desempenho de Redes Neurais Convolucionais**
-  - [Link para o PDF](https://github.com/user-attachments/files/17578614/CIC22ago2023.pdf)
-- **Projeto de Sistema de Controle de Frota**
-  - [Link para o PDF](https://github.com/user-attachments/files/18188763/Grupo.4.-.Controle.de.Frota.pdf)
-- **Documentação de Sistema Operacional para Empresa**
-  - [Link para o PDF](https://github.com/user-attachments/files/20874264/DocumentacaoSO-Empresa.pdf)
+- **LEVANTAMENTO ESTATÍSTICO SOBRE O AUXÍLIO PERMANÊNCIA NO
+INSTITUTO DE CIÊNCIA E TECNOLOGIA DE SOROCABA – SP**
+  - [LevEstatAux](https://github.com/user-attachments/files/17578614/CIC22ago2023.pdf)
+- **CONTROLE DE FROTA**
+  - [ContFrota](https://github.com/user-attachments/files/18188763/Grupo.4.-.Controle.de.Frota.pdf)
+- **SO PARA EMPRESA FICTÍCIA**
+  - [Dyonιsios](https://github.com/user-attachments/files/20874264/DocumentacaoSO-Empresa.pdf)
