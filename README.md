@@ -1,12 +1,31 @@
 # Hi there, I'm Héber Meireles 👋
 
-## My Stats
-[![WakaTime Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Martins05&theme=transparent&hide_border=true)](https://github.com/HeberMartins)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberMartins&theme=transparent&hide_border=true)
-![As Estatísticas do GitHub de Heber](https://github-readme-stats.vercel.app/api?username=HeberMartins&show_icons=true&theme=dracula)
+<div align="center">
 
+---
 
-## Past Works
-- [CIC22ago2023.pdf](https://github.com/user-attachments/files/17578614/CIC22ago2023.pdf)
-- [Grupo 4 - Controle de Frota.pdf](https://github.com/user-attachments/files/18188763/Grupo.4.-.Controle.de.Frota.pdf)
-- [DocumentaçãoSO-Empresa.pdf](https://github.com/user-attachments/files/20874264/DocumentacaoSO-Empresa.pdf)
+<a href="https://github.com/HeberMartins">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=HeberMartins&theme=transparent&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</a>
+<a href="https://github.com/HeberMartins">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberMartins&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
+</a>
+
+<br>
+
+<a href="https://github.com/HeberMartins">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeberMartins&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+
+---
+
+</div>
+
+## Projetos e Trabalhos Anteriores
+
+- **Análise de Desempenho de Redes Neurais Convolucionais**
+  - [Link para o PDF](https://github.com/user-attachments/files/17578614/CIC22ago2023.pdf)
+- **Projeto de Sistema de Controle de Frota**
+  - [Link para o PDF](https://github.com/user-attachments/files/18188763/Grupo.4.-.Controle.de.Frota.pdf)
+- **Documentação de Sistema Operacional para Empresa**
+  - [Link para o PDF](https://github.com/user-attachments/files/20874264/DocumentacaoSO-Empresa.pdf)
