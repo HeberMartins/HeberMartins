@@ -5,13 +5,17 @@
 ---
 
 <a href="https://github.com/HeberMartins">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=HeberMartins&theme=transparent&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img height="150em" src="https://github-readme-stats-one-khaki-96.vercel.app/api/wakatime?username=HeberMartins&theme=transparent&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </a>
 <a href="https://github.com/HeberMartins">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberMartins&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
+  <img height="150em" src="https://github-readme-stats-one-khaki-96.vercel.app/api/top-langs/?username=HeberMartins&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
 </a>
 
 <br>
+
+<a href="https://github.com/HeberMartins">
+  <img src="https://github-readme-stats-one-khaki-96.vercel.app/api?username=HeberMartins&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Heber" />
+</a>
 
 ---
 
