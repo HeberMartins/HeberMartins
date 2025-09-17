@@ -1,5 +1,8 @@
 # Hi there, I'm Héber Meireles 👋
 
+![Top Artists](https://lastfm-stats-alpha.vercel.app/api?username=MHeber&type=top-artists&theme=transparent&hide_border=true&layout=compact)
+![Top Tracks](https://lastfm-stats-alpha.vercel.app/api?username=MHeber&type=top-tracks&theme=transparent&hide_border=true&layout=compact)
+![Top Albums](https://lastfm-stats-alpha.vercel.app/api?username=MHeber&type=top-albums&theme=transparent&hide_border=true&layout=compact)
 <div align="center">
 
 ---
@@ -12,10 +15,6 @@
 </a>
 
 <br>
-
-<a href="https://github.com/HeberMartins">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeberMartins&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
 
 ---
 
